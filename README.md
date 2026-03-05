@@ -1,8 +1,8 @@
-👨🏽‍💻 Wallacy Gomes 
+👨🏽‍💻 Wallacy Dos Santos Gomes 
 
 **`Estudande de Programação`**
 
-Olá, me chamo Wallacy Dos Santos Gomes, tenho 21 anos e sou natural de Brasília. Concluí o ensino médio em 2020 no SEM Setor Leste. Atualmente, estou cursando Ciências da Computação na Universidade Estácio. Sou apaixonado por programação e por aqui compartilho meu conhecimento através dos meus projetos.
+Olá, me chamo Wallacy Dos Santos Gomes, tenho 22 anos e sou natural de Brasília. Concluí o ensino médio em 2020 no SEM Setor Leste. Formado em Ciências da Computação na Universidade Estácio,  Cursando Pós em Adiministração de Banco de Dadoa. Sou apaixonado por programação e por aqui compartilho meu conhecimento através dos meus projetos.
 
 ---
 
@@ -55,14 +55,14 @@ Olá, me chamo Wallacy Dos Santos Gomes, tenho 21 anos e sou natural de Brasíli
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Devwallacy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=WallacySGomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devwallacy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallacySGomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
